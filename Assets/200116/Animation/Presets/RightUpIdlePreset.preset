@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!181963792 &2655988077585873504
+Preset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: RightUpIdlePreset
+  m_TargetType:
+    m_NativeTypeID: 1102
+    m_ManagedTypePPtr: {fileID: 0}
+    m_ManagedTypeFallback: 
+  m_Properties:
+  - target: {fileID: 0}
+    propertyPath: m_Speed
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_CycleOffset
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Transitions.Array.size
+    value: 7
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Transitions.Array.data[0]
+    value: 
+    objectReference: {fileID: 6361643588908809901, guid: a6c63a62a6ba174478a91cdc5e901594, type: 2}
+  - target: {fileID: 0}
+    propertyPath: m_Transitions.Array.data[1]
+    value: 
+    objectReference: {fileID: -5896371093577932479, guid: a6c63a62a6ba174478a91cdc5e901594, type: 2}
+  - target: {fileID: 0}
+    propertyPath: m_Transitions.Array.data[2]
+    value: 
+    objectReference: {fileID: 2360846559067563646, guid: a6c63a62a6ba174478a91cdc5e901594, type: 2}
+  - target: {fileID: 0}
+    propertyPath: m_Transitions.Array.data[3]
+    value: 
+    objectReference: {fileID: -3945434704683887224, guid: a6c63a62a6ba174478a91cdc5e901594, type: 2}
+  - target: {fileID: 0}
+    propertyPath: m_Transitions.Array.data[4]
+    value: 
+    objectReference: {fileID: -2697239350532658750, guid: a6c63a62a6ba174478a91cdc5e901594, type: 2}
+  - target: {fileID: 0}
+    propertyPath: m_Transitions.Array.data[5]
+    value: 
+    objectReference: {fileID: -5568338983474123349, guid: a6c63a62a6ba174478a91cdc5e901594, type: 2}
+  - target: {fileID: 0}
+    propertyPath: m_Transitions.Array.data[6]
+    value: 
+    objectReference: {fileID: -7982848730768690857, guid: a6c63a62a6ba174478a91cdc5e901594, type: 2}
+  - target: {fileID: 0}
+    propertyPath: m_StateMachineBehaviours.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Position.x
+    value: 50
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Position.y
+    value: 50
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Position.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_IKOnFeet
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_WriteDefaultValues
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Mirror
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SpeedParameterActive
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_MirrorParameterActive
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_CycleOffsetParameterActive
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TimeParameterActive
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Motion
+    value: 
+    objectReference: {fileID: 7400000, guid: def2f1600960d62418a82b50f5bd48e3, type: 2}
+  - target: {fileID: 0}
+    propertyPath: m_Tag
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SpeedParameter
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_MirrorParameter
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_CycleOffsetParameter
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TimeParameter
+    value: 
+    objectReference: {fileID: 0}
+  m_ExcludedProperties: []
